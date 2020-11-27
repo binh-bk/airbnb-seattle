@@ -45,3 +45,5 @@
 # Credits:
 - StackOverflow is a great resource to check out a short code for a complex problem
 - Sklearn document is great to have a sense how the model is applied
+- Kaggle notebooks associated AirBnB 2016 dataset is a right place to start. The notebook gives a sense of scope and aspect of the analysis
+- Last but not least: insideairbnb.com for prepare the raw data.
