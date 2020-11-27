@@ -7,7 +7,7 @@
 - The `img` contains some of the graphs from the analysis
 
 ## Some findings:
-- Average listing price over Seattle during Jan 15, 2020 is about $170 plus fees and taxes. The price distribution is right-skewed with a few listing with a really expensive. A few of them at $1000, even one with $9999.
+- Average listing price over Seattle during Jan 15, 2020 is about $170 plus fees and taxes. The price distribution is right-skewed with a few listing with a really high price. A few of them at $1000, even one with $9999.
 <p>
     <img src="img/price_dist.png">
 </p>
