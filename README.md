@@ -6,6 +6,9 @@
 - The raw data is inside `2020Jan` folder
 - The `img` contains some of the graphs from the analysis
 
+# A high level summary is posted on Medium
+[Downtown is expensive, and more in weekends and summer time: an analysis of AirBnB data in Seattle](https://binhng.medium.com/downtown-is-expensive-and-more-in-weekends-and-summer-time-an-analysis-of-airbnb-data-in-seattle-ce784bc71583)
+
 ## Some findings:
 - Average listing price over Seattle during Jan 15, 2020 is about $170 plus fees and taxes. The price distribution is right-skewed with a few listing with a really high price. A few of them at $1000, even one with $9999.
 <p>
@@ -37,10 +40,6 @@
 - A cannonical of machine learning is California Housing Price project. AirBnB datase with listing price is identical but it contains more rows and columns, and more messy one.
 - From data scapped by [insideairbnb.com], an independent and non-commerical website, each datashet contains 3 files `listing.csv.gz`, `calendar.csv.gz`, and `reviews.csv.gz`. The dataset presented a "snapshot" of AirBnB listing price on that day. To analyze trend for longer terms, we need to analyze data from `reviews.csv` and `calendar.csv`
 - COVID-19 is somewhere in the picture to know how the pandemic affect the travel and renting business. The current analysis provides a framework to analyze price, but have not address the effect of COVID-19 on AirBnB pricing and listing.
-
-
-# A high level summary is posted on Medium
-[Downtown is expensive, and more in weekends and summer time: an analysis of AirBnB data in Seattle](https://binhng.medium.com/downtown-is-expensive-and-more-in-weekends-and-summer-time-an-analysis-of-airbnb-data-in-seattle-ce784bc71583)
 
 # Credits:
 - StackOverflow is a great resource to check out a short code for a complex problem
